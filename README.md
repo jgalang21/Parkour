@@ -1,9 +1,14 @@
-How to run/setup the application for development
+How to run/setup the application
 
-Clone the repository, and check if you have node.js install on your machine.
+This was developed using Visual Studio Code. 
+
+First, clone the repository, and check if you have node.js install on your machine.
 If you do not have node.js installed, visit https://nodejs.org/ and follow the instructions to install
 
-How to run the backend server"
+
+First, you'll need to run the backend server
+
+How to run the backend server:
 
 1.Open a terminal and cd into the backend server directory
 
@@ -15,7 +20,8 @@ to install all of the depenedencies for the server application
 `npm start server`
 to start the server
 
-How to start the frontend application
+
+How to start the frontend application:
 
 Change into the frontend directory and run `npm install` to install all of the dependencies
 
